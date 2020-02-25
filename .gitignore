@@ -5,6 +5,7 @@
 #*.tar
 #*.pickle
 data/
+input/
 nltk_data/
 
 # CDSW
