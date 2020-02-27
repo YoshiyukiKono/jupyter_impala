@@ -11,8 +11,10 @@ Admin > Engines > Environmental variables
 
 ```
 git clone https://github.com/LucaCanali/ipython-sql
+mkdir lib
+mkdir lib/python
 cd ipython-sql/
-python setup.py install --home=~
+python3 setup.py install --home=~
 ```
 
 ```
