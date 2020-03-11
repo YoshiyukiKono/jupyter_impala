@@ -161,3 +161,17 @@ Adding ipython-genutils 0.2.0 to easy-install.pth file
 Using /usr/local/lib/python3.6/site-packages
 Finished processing dependencies for ipython-sql==0.3.7.1
 ```
+
+### Other libraries
+
+```
+!pip3 install PyHive==0.6.1
+!pip3 install SQLAlchemy==1.3.13
+!pip3 install thrift==0.13.0
+!pip3 install sasl==0.2.1
+!pip3 install thrift_sasl==0.3.0
+
+!pip3 install pyarrow==0.16.0
+
+!pip3 install impyla==0.16.2
+```
