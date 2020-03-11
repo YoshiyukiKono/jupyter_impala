@@ -7,7 +7,7 @@ https://github.com/LucaCanali/ipython-sql
 
 Admin > Engines > Environmental variables
 - Name: `PYTHONPATH`
-- PYTHONPATH=$PYTHONPATH:/home/cdsw/lib/python/
+- Value: $PYTHONPATH:/home/cdsw/lib/python/
 
 ```
 git clone https://github.com/LucaCanali/ipython-sql
