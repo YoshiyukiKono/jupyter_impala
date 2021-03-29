@@ -50,7 +50,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.6.0
 py4j==0.10.8.1
 pyarrow==0.16.0
-Pygments==2.5.2
+Pygments==2.7.4
 PyHive==0.6.1
 pyparsing==2.4.5
 pyrsistent==0.15.6
